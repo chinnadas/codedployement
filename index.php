@@ -1,5 +1,5 @@
 <?php
 
-echo "the CI/CD has been installed sucessfully";
+echo "THE CI/CD has been installed sucessfully by code deploy";
 
 ?>
